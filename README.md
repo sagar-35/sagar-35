@@ -3,7 +3,7 @@ I am a passionate Flutter Developer.
 #### I am an Android, ios & Web developer.
 I would like to be a great Software Engineer. That's why I have been working toward fulfilling my dreams. 
 
-Skills: JAVA / JS / HTML / CSS / PHP /
+Skills: Flutter/ Dart/ JAVA / HTML / CSS /
 
 - 🔭 I’m currently working on Android Apps Developed with Flutter
 - 🌱 I’m currently learning web & application security 
