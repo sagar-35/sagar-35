@@ -1,6 +1,6 @@
-I am a passionate Flutter Developer.](https://media-exp1.licdn.com/dms/image/C5616AQHlQSQe5JYVIQ/profile-displaybackgroundimage-shrink_200_800/0/1664119373210?e=1669852800&v=beta&t=Vgltz0vfvUaGFcfl22G6doJeKMnV3Lei3IX9WNQQPc8)
+I am a passionate Flutter Developer.
 ### Hi there 👋, my name is Sagar
-#### I am an Android & Web developer.
+#### I am an Android, ios & Web developer.
 I would like to be a great Software Engineer. That's why I have been working toward fulfilling my dreams. 
 
 Skills: JAVA / JS / HTML / CSS / PHP /
