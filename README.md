@@ -7,7 +7,7 @@ Skills: Flutter/ Dart/ JAVA / HTML / CSS /
 
 - 🔭 I’m currently working on Android Apps Developed with Flutter
 - 🌱 I’m currently learning web & application security 
-- 👯 I’m looking to collaborate on Google  
+- 🤝🏻 I’m looking to collaborate on Google  
 - 💬 Ask me about Android Apps and web development 
 - 📫 How to reach me: ahmedulhaque9009@gmail.com/01735359009 
 
