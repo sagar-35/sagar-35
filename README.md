@@ -1,27 +1,46 @@
-I am a passionate Flutter Developer.
-### Hi there 👋, my name is Sagar
-#### I am an Android, ios & Web developer.
-I would like to be a great Software Engineer. That's why I have been working toward fulfilling my dreams. 
+# 👋 Hi there, I’m Sagar
 
-Skills: Flutter/ Dart/ JAVA / HTML / CSS /
+I’m a passionate **Python Developer** and **Software QA Engineer Intern**. I am currently upgrading my skills to become an **Automation Engineer** by learning **Python**, **Automation Testing**, and **Software Engineering principles**.
 
-- 🔭 I’m currently working on Android Apps Developed with Flutter
-- 🌱 I’m currently learning web & application security 
-- 🤝🏻 I’m looking to collaborate on Google  
-- 💬 Ask me about Android Apps and web development 
-- 📫 How to reach me: ahmedulhaque9009@gmail.com/01735359009 
+### 🚀 Skills:
+- **Python** (Learning Automation, Testing & AI)
+- **Manual Software QA Testing**
+- **Automation Testing Tools** (Selenium, Pytest)
+- **Flutter** / **Dart** (Mobile App Development)
+- **Web Development** (HTML, CSS, JavaScript)
 
+### 🔭 I’m currently working on:
+- **Automation Testing** using **Python** and **Selenium**
+- **QA Automation Projects** and **Scripting**
+- **Python Projects** for testing and automation
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sagar-35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sagar-haque-2199aa1a2//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sagar3509/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SagarHaque2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/sagarhaque/about-me?authuser=0)  
+### 🌱 I’m currently learning:
+- **Python** (for Automation Testing and AI)
+- **Selenium** for Web Automation
+- **API Testing** and **Continuous Integration** (CI/CD)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### 🤝 I’m looking to collaborate on:
+- **Automation Testing** Projects
+- **Python** development projects
+- **Software Testing** and **QA Automation** with **Selenium** and **Pytest**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sagar-35)](https://github.com/ryo-ma/github-profile-trophy)
+### 💬 Ask me about:
+- **Software QA Testing** (Manual and Automated)
+- **Python Programming** for Automation
+- **Selenium** and **QA Automation** practices
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-35&show_icons=true)  
+### 📫 How to reach me:
+- Email: [ahmedulhaque9009@gmail.com](mailto:ahmedulhaque9009@gmail.com)
+- Phone: +8801735359009
+- [GitHub](https://github.com/sagar-35) | [LinkedIn](https://www.linkedin.com/in/sagar) | [Facebook](https://www.facebook.com/sagar) | [Twitter](https://twitter.com/sagar) | [Website](https://www.yoursite.com)
 
-![GitHub metrics](https://metrics.lecoq.io/sagar-35)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sagar-35)  
+### 🏆 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
-![Profile views](https://gpvc.arturio.dev/sagar-35)  
+### 📈 GitHub Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-35&theme=tokyonight)
+
+### 📊 GitHub Metrics:
+![GitHub Metrics](https://metrics.lecoq.io/sagar-35?template=classic&languages=1&activity=1&achievements=1&introduction=1&repositories=1&people=1&followup=1&config.timezone=Asia%2FDhaka)
