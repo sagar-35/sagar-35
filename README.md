@@ -32,7 +32,7 @@ I’m a passionate **Python Developer** and **Software QA Engineer Intern**. I a
 ### 📫 How to reach me:
 - Email: [ahmedulhaque9009@gmail.com](mailto:ahmedulhaque9009@gmail.com)
 - Phone: +8801735359009
-- [GitHub](https://github.com/sagar-35) | [LinkedIn](https://www.linkedin.com/in/sagar) | [Facebook](https://www.facebook.com/sagar) | [Twitter](https://twitter.com/sagar) | [Website](https://www.yoursite.com)
+- [GitHub](https://github.com/sagar-35) | [LinkedIn](https://www.linkedin.com/in/ahmedul-hoq35/) | | [Website](https://www.yoursite.com)
 
 ---
 
