@@ -53,12 +53,18 @@ I’m a passionate **Python Developer** and **Software QA Engineer Intern**, cur
 - 🌐 [GitHub](https://github.com/sagar-35) | [LinkedIn](https://www.linkedin.com/in/ahmedul-hoq35/) | [Website](https://www.yoursite.com)
 
 ---
+---
 
-### 🏆 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-35&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+### 📊 GitHub Overview
 
-### 📈 GitHub Streak Stats:
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-35&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-35&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-35&theme=tokyonight)
 
-### 📊 GitHub Metrics:
-![GitHub Metrics](https://metrics.lecoq.io/sagar-35?template=classic&languages=1&activity=1&achievements=1&introduction=1&repositories=1&people=1&followup=1&config.timezone=Asia%2FDhaka)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-35&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sagar-35&theme=tokyonight&no-frame=true)
+
+---
