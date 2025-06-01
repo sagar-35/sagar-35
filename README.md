@@ -53,18 +53,20 @@ I’m a passionate **Python Developer** and **Software QA Engineer Intern**, cur
 - 🌐 [GitHub](https://github.com/sagar-35) | [LinkedIn](https://www.linkedin.com/in/ahmedul-hoq35/) | [Website](https://www.yoursite.com)
 
 ---
----
 
-### 📊 GitHub Overview
-
+### 🏆 GitHub Stats
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar-35&show_icons=true&theme=tokyonight)
 
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-35&layout=compact&theme=tokyonight)
 
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-35&theme=tokyonight)
 
+### 📋 Profile Summary Card
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-35&theme=tokyonight)
 
+### 🏅 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sagar-35&theme=tokyonight&no-frame=true)
 
 ---
