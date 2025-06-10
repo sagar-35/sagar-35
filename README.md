@@ -63,9 +63,6 @@ I’m a passionate **Python Developer** and **Software QA Engineer Intern**, cur
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar-35&theme=tokyonight)
 
-### 📋 Profile Summary Card
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagar-35&theme=tokyonight)
-
 ### 🏅 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sagar-35&theme=tokyonight&no-frame=true)
 
